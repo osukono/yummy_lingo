@@ -1,0 +1,129 @@
+{
+    "common": {
+        "no_data": "Нет данных"
+    },
+    "course": {
+        "button_continue": "Продолжить",
+        "button_repeat": "Повторить",
+        "button_update": "Обновить",
+        "completed_heading": "Поздравляем!",
+        "completed_text": "Вы успешно прошли курс. Для дальнейшего обучения вы можете повторить любой из пройденных уроков, или добавить новый.",
+        "delete_downloaded_media": "Удалить загрузки",
+        "delete_from_library": "Удалить из библиотеки",
+        "description_less": "скрыть",
+        "description_more": "ещё",
+        "download_media": "Загрузить",
+        "downloading_heading": "Загрузка файлов",
+        "downloading_text": "Это займет некоторое время",
+        "error_storage_full": "Ваш диск заполнен. Пожалуйста попробуйте позже.",
+        "error_updating_heading": "На данный момент курс обновляется",
+        "error_updating_text": "Пожалуйста, повторите попытку позже.",
+        "label_downloaded": "ЗАГРУЖЕН",
+        "lessons": "Уроки",
+        "progress": "Мой прогресс",
+        "reset_progress": "Начать курс заново",
+        "unlock_lessons": "Разблокировать все уроки"
+    },
+    "courses": {
+        "button_add_to_library": "Добавить",
+        "no_courses_heading": "На данный момент новых курсов нет",
+        "no_courses_text": "Зайдите позже, чтобы проверить их наличие"
+    },
+    "dialog": {
+        "button_cancel": "Отмена",
+        "button_no": "Нет",
+        "button_ok": "OK",
+        "button_yes": "Да",
+        "confirmation": "Вы уверены?",
+        "no_internet_heading": "Ваше устройство не подключено к Интернету",
+        "no_internet_text": "Пожалуйста, повторите попытку позже."
+    },
+    "library": {
+        "heading": "Библиотека",
+        "loading": "Загрузка",
+        "log_out": "Выйти",
+        "no_courses_heading": "Ваша библиотека пустая",
+        "no_courses_text": "Прежде чем начать, добавьте несколько курсов",
+        "sign_up": "Создать учетную запись",
+        "upgrade_anonymous_message": "Для того чтобы продолжить, вам необходимо зарегистрироваться"
+    },
+    "navigation": {
+        "actions": "Действия",
+        "back": "Назад",
+        "close": "Закрыть"
+    },
+    "payment": {
+        "error_message": "Транзакция отклонена. Пожалуйста, повторите попытку позже.",
+        "lesson_locked_button_buy": "Купить",
+        "lesson_locked_button_cancel": "Позже",
+        "lesson_locked_heading": "Урок заблокирован",
+        "lesson_locked_message": "Сначала получите полный доступ к курсу",
+        "success_button_continue": "Продолжить",
+        "success_message": "Благодарим за покупку. Курс успешно разблокирован."
+    },
+    "player": {
+        "button_close": "Закрыть",
+        "button_continue": "Продолжить",
+        "button_start": "Начать",
+        "lesson": "Урок",
+        "part": "Часть",
+        "review": "Повторение",
+        "speed": {
+            "faster": "БЫСТРО",
+            "normal": "СРЕДНЕ",
+            "slower": "МЕДЛЕННО"
+        },
+        "volume": "Громкость"
+    },
+    "error": "Что-то пошло не так. Пожалуйста, повторите попытку позже.",
+    "error_email_already_in_use": "Пользователь с такой почтой уже существует.",
+    "error_invalid_email": "Неверный формат почты",
+    "name_is_empty": "Имя обязательно для заполнения",
+    "password_is_incorrect": "Пароль должен состоять не менее чем из 6 символов",
+    "settings": {
+        "button_continue": "Продолжить",
+        "button_save": "Сохранить",
+        "course_language": "Язык курса",
+        "course_translation": "Язык перевода",
+        "heading": "Выберите"
+    },
+    "back": "Назад",
+    "error_user_not_found": "Не удалось найти пользователя с указанным электронным адресом.",
+    "error_wrong_password": "Неверный пароль.",
+    "existing_user": "Уже зарегистрированы?",
+    "log_in": "Войти",
+    "login": "Вход",
+    "please_check_your_mail": "Ссылка на сброс пароля была отправлена!",
+    "reset_password": "Сбросить пароль",
+    "reset_password_hint": "Введите адрес электронной почты, на который будет отправлена инструкция по восстановлению пароля",
+    "send_reset_link": "Отправить",
+    "sign_in": {
+        "button_sign_up": "Зарегистрироваться",
+        "email": "Email",
+        "forgot_password": "Забыли пароль?",
+        "name": "Имя",
+        "password": "Пароль",
+        "privacy_policy_notification": "Регистрируясь вы принимаете политику конфиденциальности"
+    },
+    "sign_up": {
+        "anonymously": "Войти как Гость",
+        "heading": "Регистрация",
+        "with_apple": "Войти c Apple",
+        "with_email": "Регистрация с почтой",
+        "with_google": "Войти через Google"
+    },
+    "topic": {
+        "grammar": "ГРАММАТИКА"
+    },
+    "tutorial": {
+        "courses": "Курсы разделены по уровню сложности. Сделайте свой выбор в соответствии с их названием или описанием.",
+        "lesson_completed": "Урок пройден. Продолжайте, чтобы поддерживать свой прогресс.",
+        "listening": "Прослушайте упражнения. Постарайтесь запомнить примеры.",
+        "practice": "Переведите предложения составляя их из блоков.",
+        "welcome": {
+            "button_continue": "Продолжить",
+            "heading": "Добро пожаловать в",
+            "text": "Изучение языков никогда еще не было таким простым.\nС Yummy Lingo вы начнете разговаривать на иностранном языке в кратчайшие сроки."
+        }
+    }
+}

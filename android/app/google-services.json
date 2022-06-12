@@ -1,0 +1,103 @@
+{
+  "project_info": {
+    "project_number": "126777857696",
+    "firebase_url": "https://yummy-lingo.firebaseio.com",
+    "project_id": "yummy-lingo",
+    "storage_bucket": "yummy-lingo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126777857696:android:7ffc34994fcb69f9b99bc5",
+        "android_client_info": {
+          "package_name": "com.yummylingo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126777857696-h59io160mjd1ntfjgr5duu1b52edp3f6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yummylingo.app",
+            "certificate_hash": "67f8d06e068c43da16c643aa86d87a800a8b6115"
+          }
+        },
+        {
+          "client_id": "126777857696-09e1t7b5d7b4k0frtbmncdijqm4kp6ii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yummylingo.app",
+            "certificate_hash": "f2be38444c7f156a70bdd569eb855f90b0bfd227"
+          }
+        },
+        {
+          "client_id": "126777857696-fiun1lpmfs8e0kuigs8puue8agnetbte.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yummylingo.app",
+            "certificate_hash": "cff6712d3e4ad18055c5fe7351b75e976e8782e5"
+          }
+        },
+        {
+          "client_id": "126777857696-vdq6er9j5lp34rsv8gd70nc4pgo5dvp3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yummylingo.app",
+            "certificate_hash": "56687c856fbeeabaac25ef01979018b8bcab4d4d"
+          }
+        },
+        {
+          "client_id": "126777857696-t3i9a7kdt210dorgdjuk7tej1spckv2j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yummylingo.app",
+            "certificate_hash": "6d6682c4894dc599c0d7bbf39caed4867651121d"
+          }
+        },
+        {
+          "client_id": "126777857696-nn6der5a6qml6arpgp1fe1mup888068u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yummylingo.app",
+            "certificate_hash": "830de1b2c68f5a41b11b64a802ca476599987aaa"
+          }
+        },
+        {
+          "client_id": "126777857696-o3e0uai4qusmd8bo0olph3jk09jbroni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yummylingo.app",
+            "certificate_hash": "535fd1150f97651d076e47f326ce194e1ad0d090"
+          }
+        },
+        {
+          "client_id": "126777857696-eorb4316fkv5geu63te86jt5cvp8rasb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR7FSV7906kQGMVN1CZguoa22Ih-bjfJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126777857696-eorb4316fkv5geu63te86jt5cvp8rasb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "126777857696-lqk7ce4t8ofcfnt4gjtveaq8sghfnpi9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yummylingo.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

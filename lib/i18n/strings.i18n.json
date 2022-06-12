@@ -1,0 +1,129 @@
+{
+    "common": {
+        "no_data": "No data"
+    },
+    "course": {
+        "button_continue": "Continue",
+        "button_repeat": "Repeat",
+        "button_update": "Update",
+        "completed_heading": "Congratulations!",
+        "completed_text": "You have successfully completed the course. Review any lessons at any time or browse for more courses to study further.",
+        "delete_downloaded_media": "Remove Downloads",
+        "delete_from_library": "Remove from Library",
+        "description_less": "hide",
+        "description_more": "more",
+        "download_media": "Download Media",
+        "downloading_heading": "Downloading Media",
+        "downloading_text": "It will take some time",
+        "error_storage_full": "Your storage is almost full. Please try again later.",
+        "error_updating_heading": "The course is under update",
+        "error_updating_text": "Please try again later.",
+        "label_downloaded": "DOWNLOADED",
+        "lessons": "Lessons",
+        "progress": "Course Progress",
+        "reset_progress": "Reset Progress",
+        "unlock_lessons": "Unlock all Lessons"
+    },
+    "courses": {
+        "button_add_to_library": "Add",
+        "no_courses_heading": "You've Caught Up!",
+        "no_courses_text": "Check out if there are more courses in other languages"
+    },
+    "dialog": {
+        "button_cancel": "Cancel",
+        "button_no": "No",
+        "button_ok": "OK",
+        "button_yes": "Yes",
+        "confirmation": "Are you sure?",
+        "no_internet_heading": "Your device is not connected to the Internet",
+        "no_internet_text": "Please try again later."
+    },
+    "library": {
+        "heading": "Library",
+        "loading": "Loading",
+        "log_out": "Sign Out",
+        "no_courses_heading": "Your library is empty",
+        "no_courses_text": "Add some courses before you get started",
+        "sign_up": "Create an Account",
+        "upgrade_anonymous_message": "In order to continue, you must sign in"
+    },
+    "navigation": {
+        "actions": "Actions",
+        "back": "Back",
+        "close": "Close"
+    },
+    "payment": {
+        "error_message": "An error occurred, please try again later.",
+        "lesson_locked_button_buy": "Buy",
+        "lesson_locked_button_cancel": "Not now",
+        "lesson_locked_heading": "Lesson locked",
+        "lesson_locked_message": "To continue studying, get full access to the course",
+        "success_button_continue": "Continue",
+        "success_message": "Thank you for your payment. The course has been successfully unlocked."
+    },
+    "player": {
+        "button_close": "Close",
+        "button_continue": "Continue",
+        "button_start": "Start",
+        "lesson": "Lesson",
+        "part": "Part",
+        "review": "Review",
+        "speed": {
+            "faster": "FAST",
+            "normal": "NORMAL",
+            "slower": "SLOW"
+        },
+        "volume": "Volume"
+    },
+    "error": "Something went wrong. Please try again later.",
+    "error_email_already_in_use": "The email address is already in use by another account.",
+    "error_invalid_email": "Invalid email format",
+    "name_is_empty": "The name must not be empty",
+    "password_is_incorrect": "Password should be at least 6 characters",
+    "settings": {
+        "button_continue": "Continue",
+        "button_save": "Save",
+        "course_language": "Course Language",
+        "course_translation": "Translation Language",
+        "heading": "Select"
+    },
+    "back": "Back",
+    "error_user_not_found": "There is no user record corresponding to this identifier.",
+    "error_wrong_password": "The password is invalid.",
+    "existing_user": "Existing user?",
+    "log_in": "Log in",
+    "login": "Login",
+    "please_check_your_mail": "We have e-mailed your password reset link!",
+    "reset_password": "Reset password",
+    "reset_password_hint": "Enter your email address and we will send you an email with password reset instructions",
+    "send_reset_link": "Send",
+    "sign_in": {
+        "button_sign_up": "Sign up",
+        "email": "Email",
+        "forgot_password": "Forgot your password?",
+        "name": "Name",
+        "password": "Password",
+        "privacy_policy_notification": "By signing up you agree to our Privacy Policy"
+    },
+    "sign_up": {
+        "anonymously": "Continue as a Guest",
+        "heading": "Sign up",
+        "with_apple": "Sign in with Apple",
+        "with_email": "Sign up with Email",
+        "with_google": "Sign in with Google"
+    },
+    "topic": {
+        "grammar": "GRAMMAR"
+    },
+    "tutorial": {
+        "courses": "Each course has its level of difficulty. You can choose one based on the title or description.",
+        "lesson_completed": "You have completed the lesson. Continue to keep your progress.",
+        "listening": "Listen to the exercises. Try to memorize the examples.",
+        "practice": "Translate sentences from the chunks.",
+        "welcome": {
+            "button_continue": "Continue",
+            "heading": "Welcome to",
+            "text": "Learning has never been so easy!\nWith Yummy Lingo you will learn how to speak your dream language in no time"
+        }
+    }
+}

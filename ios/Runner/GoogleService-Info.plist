@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>126777857696-lqk7ce4t8ofcfnt4gjtveaq8sghfnpi9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.126777857696-lqk7ce4t8ofcfnt4gjtveaq8sghfnpi9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>126777857696-h59io160mjd1ntfjgr5duu1b52edp3f6.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDVfermFJk0eZVBSSIK7sHj5g1UdcA7PnY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>126777857696</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.yummylingo.app</string>
+	<key>PROJECT_ID</key>
+	<string>yummy-lingo</string>
+	<key>STORAGE_BUCKET</key>
+	<string>yummy-lingo.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:126777857696:ios:afa03c4049af6fb5b99bc5</string>
+	<key>DATABASE_URL</key>
+	<string>https://yummy-lingo.firebaseio.com</string>
+</dict>
+</plist>

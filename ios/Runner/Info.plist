@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>BGTaskSchedulerPermittedIdentifiers</key>
+		<array>
+			<string>com.yummylingo.app</string>
+		</array>
+		<key>CFBundleDevelopmentRegion</key>
+		<string>$(DEVELOPMENT_LANGUAGE)</string>
+		<key>CFBundleExecutable</key>
+		<string>$(EXECUTABLE_NAME)</string>
+		<key>CFBundleIdentifier</key>
+		<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+		<key>CFBundleInfoDictionaryVersion</key>
+		<string>6.0</string>
+		<key>CFBundleLocalizations</key>
+		<array>
+			<string>en</string>
+			<string>uk</string>
+			<string>ru</string>
+		</array>
+		<key>CFBundleName</key>
+		<string>Yummy Lingo</string>
+		<key>CFBundlePackageType</key>
+		<string>APPL</string>
+		<key>CFBundleShortVersionString</key>
+		<string>$(MARKETING_VERSION)</string>
+		<key>CFBundleSignature</key>
+		<string>????</string>
+		<key>CFBundleURLTypes</key>
+		<array>
+			<dict>
+				<key>CFBundleTypeRole</key>
+				<string>Editor</string>
+				<key>CFBundleURLSchemes</key>
+				<array>
+					<string>com.googleusercontent.apps.126777857696-lqk7ce4t8ofcfnt4gjtveaq8sghfnpi9</string>
+				</array>
+			</dict>
+		</array>
+		<key>CFBundleVersion</key>
+		<string>$(CURRENT_PROJECT_VERSION)</string>
+		<key>GADApplicationIdentifier</key>
+		<string>ca-app-pub-9478641749643841~7917216257</string>
+		<key>LSApplicationCategoryType</key>
+		<string></string>
+		<key>LSRequiresIPhoneOS</key>
+		<true/>
+		<key>NSAppleMusicUsageDescription</key>
+		<string>We need your confirmation to store the audio locally. That way you will be able to access courses offline.</string>
+		<key>NSCalendarsUsageDescription</key>
+		<string>We need your confirmation to access your calendar. It makes easier for you to create a Yummy Lingo’s account.</string>
+		<key>NSContactsUsageDescription</key>
+		<string>We need your confirmation to access your contacts. It makes easier for you to create a Yummy Lingo’s account.</string>
+		<key>NSLocationAlwaysUsageDescription</key>
+		<string>Your current location will be displayed on the map and used for nearby search results.</string>
+		<key>NSLocationWhenInUseUsageDescription</key>
+		<string>Your current location will be displayed on the map and used for nearby search results.</string>
+		<key>NSMicrophoneUsageDescription</key>
+		<string>We need your confirmation for microphone usage future.</string>
+		<key>NSMotionUsageDescription</key>
+		<string>We need your confirmation to track your device motion. It allows us to provide you with a fully featured player.</string>
+		<key>NSSpeechRecognitionUsageDescription</key>
+		<string>We need your confirmation for speech recognition future.</string>
+		<key>UIBackgroundModes</key>
+		<array>
+			<string>audio</string>
+			<string>processing</string>
+		</array>
+		<key>UILaunchStoryboardName</key>
+		<string>LaunchScreen</string>
+		<key>UIMainStoryboardFile</key>
+		<string>Main</string>
+		<key>UIStatusBarHidden</key>
+		<false/>
+		<key>UISupportedInterfaceOrientations</key>
+		<array>
+			<string>UIInterfaceOrientationPortrait</string>
+			<string>UIInterfaceOrientationLandscapeLeft</string>
+			<string>UIInterfaceOrientationLandscapeRight</string>
+		</array>
+		<key>UISupportedInterfaceOrientations~ipad</key>
+		<array>
+			<string>UIInterfaceOrientationPortrait</string>
+			<string>UIInterfaceOrientationPortraitUpsideDown</string>
+			<string>UIInterfaceOrientationLandscapeLeft</string>
+			<string>UIInterfaceOrientationLandscapeRight</string>
+		</array>
+		<key>UIUserInterfaceStyle</key>
+		<string>Light</string>
+		<key>UIViewControllerBasedStatusBarAppearance</key>
+		<true/>
+	</dict>
+</plist>

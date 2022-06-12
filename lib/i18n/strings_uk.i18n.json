@@ -1,0 +1,129 @@
+{
+    "common": {
+        "no_data": "Немає даних"
+    },
+    "course": {
+        "button_continue": "Продовжити",
+        "button_repeat": "Повторити",
+        "button_update": "Оновити",
+        "completed_heading": "Вітаємо!",
+        "completed_text": "Ви успішно пройшли курс. Для подальшого навчання ви можете повторити будь-який з попередніх уроків, або додати новий.",
+        "delete_downloaded_media": "Видалити завантаження",
+        "delete_from_library": "Видалити з бібліотеки",
+        "description_less": "сховати",
+        "description_more": "ще",
+        "download_media": "Завантажити",
+        "downloading_heading": "Завантаження файлів",
+        "downloading_text": "Це займе деякий час",
+        "error_storage_full": "Ваш диск заповнений. Будь ласка спробуйте пізніше.",
+        "error_updating_heading": "Курс оновлюється",
+        "error_updating_text": "Будь ласка, спробуйте ще раз пізніше.",
+        "label_downloaded": "ЗАВАНТАЖЕНО",
+        "lessons": "Уроки",
+        "progress": "Мій прогрес",
+        "reset_progress": "Почати курс знову",
+        "unlock_lessons": "Розблокувати усі уроки"
+    },
+    "courses": {
+        "button_add_to_library": "Додати",
+        "no_courses_heading": "Нових курсів немає",
+        "no_courses_text": "Ви можете переглянути наявність курсів в інших перекладах"
+    },
+    "dialog": {
+        "button_cancel": "Відміна",
+        "button_no": "Ні",
+        "button_ok": "OK",
+        "button_yes": "Так",
+        "confirmation": "Ви впевнені?",
+        "no_internet_heading": "Ваш пристрій не підключено до Інтернету",
+        "no_internet_text": "Будь ласка, спробуйте ще раз пізніше."
+    },
+    "library": {
+        "heading": "Бібліотека",
+        "loading": "Завантаження",
+        "log_out": "Вийти з аккаунта",
+        "no_courses_heading": "Ваша бібліотека порожня",
+        "no_courses_text": "Перш ніж почати, додайте декілька курсів",
+        "sign_up": "Реєстрація",
+        "upgrade_anonymous_message": "Для того щоб продовжити, вам необхідно зареєструватися"
+    },
+    "navigation": {
+        "actions": "Дії",
+        "back": "Назад",
+        "close": "Закрити"
+    },
+    "payment": {
+        "error_message": "Транзакція відхилена. Будь ласка, спробуйте ще раз пізніше.",
+        "lesson_locked_button_buy": "Придбати",
+        "lesson_locked_button_cancel": "Пізніше",
+        "lesson_locked_heading": "Урок заблоковано",
+        "lesson_locked_message": "Спочатку отримайте повний доступ до курсу",
+        "success_button_continue": "Продовжити",
+        "success_message": "Дякуємо за покупку. Курс успішно розблоковано."
+    },
+    "player": {
+        "button_close": "Закрити",
+        "button_continue": "Продовжити",
+        "button_start": "Почати",
+        "lesson": "Урок",
+        "part": "Частина",
+        "review": "Повторення",
+        "speed": {
+            "faster": "ШВИДКО",
+            "normal": "ПОМІРНО",
+            "slower": "ПОВІЛЬНО"
+        },
+        "volume": "Гучність"
+    },
+    "error": "Щось пішло не так. Будь-ласка спробуйте пізніше.",
+    "error_email_already_in_use": "Користувач із вказаною електронною адресою вже існує.",
+    "error_invalid_email": "Невірний формат пошти",
+    "name_is_empty": "Ім'я є обов'язковим для заповнення",
+    "password_is_incorrect": "Пароль повинен містити не менше 6 символів",
+    "settings": {
+        "button_continue": "Продовжити",
+        "button_save": "Зберегти",
+        "course_language": "Мова курсу",
+        "course_translation": "Мова перекладу",
+        "heading": "Оберіть"
+    },
+    "back": "Назад",
+    "error_user_not_found": "Користувача із вказаною електронною адресою не знайдено.",
+    "error_wrong_password": "Невірний пароль.",
+    "existing_user": "Вже зареєстровані?",
+    "log_in": "Увійти",
+    "login": "Вхід",
+    "please_check_your_mail": "Посилання для зміни пароля надіслано на вашу електронну адресу!",
+    "reset_password": "Відновити пароль",
+    "reset_password_hint": "Введіть адресу електронної пошти, на яку буде надіслано інструкцію з відновлення паролю",
+    "send_reset_link": "Надіслати",
+    "sign_in": {
+        "button_sign_up": "Зареєструватися",
+        "email": "Email",
+        "forgot_password": "Забули пароль?",
+        "name": "Ім'я",
+        "password": "Пароль",
+        "privacy_policy_notification": "Реєструючись ви приймаєте політику конфіденційності"
+    },
+    "sign_up": {
+        "anonymously": "Войти як Гість",
+        "heading": "Реєстрація",
+        "with_apple": "Увійти з Apple",
+        "with_email": "Реєстрація з поштою",
+        "with_google": "Увійти за допомогою Google"
+    },
+    "topic": {
+        "grammar": "ГРАММАТИКА"
+    },
+    "tutorial": {
+        "courses": "Курси розділені за рівнем складності. Зробіть свій вибір згідно з їх назвою або описом.",
+        "lesson_completed": "Вправу виконано. Продовжуйте, щоб підтримувати свій прогрес.",
+        "listening": "Прослухайте вправи. Намагайтеся запам'ятати приклади.",
+        "practice": "Перекладіть речення складаючи їх з блоків.",
+        "welcome": {
+            "button_continue": "Продовжити",
+            "heading": "Ласкаво просимо в",
+            "text": "Вивчення мов ніколи ще не було таким простим.\nЗ Yummy Lingo ви навчитесь розмовляти іноземною мовою в найкоротший термін."
+        }
+    }
+}
